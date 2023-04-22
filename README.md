@@ -1,1 +1,0 @@
-# gatimagesegmentation.github.io
